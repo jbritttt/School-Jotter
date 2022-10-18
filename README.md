@@ -1,3 +1,3 @@
 # School-Jotter
 
-https://moonlit-salmiakki-4fbbe7.netlify.app/
+https://ubiquitous-cucurucho-577b0e.netlify.app/
