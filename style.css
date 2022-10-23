@@ -43,15 +43,18 @@ header {
   display: flex;
   align-items: center;
   width: 100%;
+   max-height:708px
 }
 
 .slick-slider {
   display: flex;
   overflow: hidden;
+   max-height:708px
 }
 
 .slick-slider img {
   width: 100%;
+   max-height:708px
 }
 
 .next,
