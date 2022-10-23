@@ -3,6 +3,7 @@ $(document).ready(function(){
   $('.slick-slider').slick({
     autoplay: true,
 infinite: true,
+lazyLoad: 'ondemand',
 speed: 500,
 fade: true,
 cssEase: 'linear',
