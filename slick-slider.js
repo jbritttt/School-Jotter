@@ -4,6 +4,7 @@ $(document).ready(function(){
     autoplay: true,
 infinite: true,
 lazyLoad: 'ondemand',
+accessibility: true, 
 speed: 500,
 fade: true,
 cssEase: 'linear',
