@@ -1,3 +1,3 @@
 # School-Jotter
 
-https://ubiquitous-cucurucho-577b0e.netlify.app/
+https://celebrated-gaufre-58f4ea.netlify.app/
